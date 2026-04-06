@@ -10,6 +10,11 @@ This project is being developed by following online cybersecurity tutorials and 
 
 I am using this repository to implement, test, and experiment with the concepts explained in these tutorials as part of my continuous learning process.
 
+ 📚 This project is based on tutorials by David Bombal.
+
+YouTube: https://www.youtube.com/@davidbombal  
+GitHub: https://github.com/davidbombal
+
 ---
 
 ## 🎯 Purpose of the Project
