@@ -1,4 +1,4 @@
-# 🔐 Cyber Security Practice Project
+ # 🔐 Cyber Security Practice Project
 
 This repository contains a collection of Python-based scripts developed as part of my learning journey in cybersecurity. The primary goal of this project is to gain practical knowledge of networking, security concepts, and ethical hacking techniques by implementing them through hands-on coding.
 
